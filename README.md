@@ -1,2 +1,2 @@
 # InfoGempa
-Gbuutttttt
+pake python2 bro.
