@@ -1,5 +1,6 @@
 # By BMKG
 # DECODE YA HYUNG?
+# Ngapain lo asw disini ajg:v
 import requests
 import xml.dom.minidom as xmlget
 import os
